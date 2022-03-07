@@ -5,7 +5,7 @@
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Amit Ramachandran} % Your name
 % You can merge both of these into a single line, if you do not have a website.
-\address{(+91)8431559976 \\ Bengaluru} 
+\address{(+91)8431559976 \\  Bengaluru} 
 \address{\href{amit.cs19@bmsce.ac.in}{amit.cs19@bmsce.ac.in} \\ \href{https://linkedin.com/in/linkedinURL}{linkedin.com/in/linkedinURL} \\ \href{https://github.com/amitr100}{https://github.com/amitr100}}  %
 
 \begin{document}
@@ -34,7 +34,6 @@ CGPA: 7.1
 Languages & Javascript, Python, HTML, CSS, SQL, C++, Java \\
 Frameworks & React, Node.js \\
 Tools & Git, Visual Studio Code, Android Studio\\
-\\
 Soft Skills & Time Management, Teamwork, Communication, Problem Solving,  Accountability
 \\
 \end{tabular}\\
@@ -54,6 +53,12 @@ Soft Skills & Time Management, Teamwork, Communication, Problem Solving,  Accoun
     \item Implemented MLkit dependency.
     \item Utilized model that extracts text from an image.
  \end{itemize}
+ 
+ \item \textbf{Project 2 -} {Simple Interest Calculator} \hfill \href{https://github.com/amitr100/vftvk-Simple-Interest-Calculator}{GitHub}
+\begin{itemize}
+    \itemsep -3pt {} 
+     \item Created using HTML, CSS and Javascript.
+ \end{itemize}
 
 \end{rSection} 
 
@@ -62,6 +67,8 @@ Soft Skills & Time Management, Teamwork, Communication, Problem Solving,  Accoun
 \begin{itemize}
     \item 	Guitarist.
     \item	Footballer.
+    \item   BMSCE Protocol.
+    \item   BMSCE Phaseshift.
 \end{itemize}
 
 
